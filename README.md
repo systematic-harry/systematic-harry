@@ -18,9 +18,9 @@ In-house platform for NSE and US equities and options: backtest engine, screener
 Rules-based strategy on Nifty 50 stocks, 7,880-trade backtest (2021–2025).
 → ₹10 lakh to **₹28.08 lakh** · **22.9% CAGR** · **Sharpe 1.83** · max drawdown 11.9% · every year profitable
 
-**RS Momentum Screener (JdK RS-Ratio / RS-Momentum)** · *TradingView (coming soon)*
-Ranks 124 NSE stocks against the Nifty 500 and places each in a rotation quadrant (Leading, Weakening, Lagging, Improving).
-→ Flags stocks turning from weak to strong early, using faster smoothing than the standard method
+**RS Momentum Screener (JdK RS-Ratio / RS-Momentum)** · [Trade results](https://github.com/systematic-harry/systematic-harry/tree/main/rs-momentum-screener)
+Ranks NSE stocks against the Nifty 500 and flags those turning from weak to strong; used for real trades in two accounts (Jan–Oct 2026).
+→ 23 closed trades · **74% winners** · **+7.0% average per trade** · profit factor 5.8 · ₹3.33 lakh realised
 
 **Portfolio Risk Case Study: client US equity account** · [Case study](https://github.com/systematic-harry/systematic-harry/tree/main/risk-case-study)
 Historical VaR(95) from actual positions, a 10,000-path Monte Carlo stress test, and a 15-rule replay → recommended VaR-based position sizing (5% limit) plus a hard 15% loss floor.→ Return **−2.2% → +18.4%** · max drawdown **−30.8% → −15.1%** · worst day −11.5% → −8.6%
