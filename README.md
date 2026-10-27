@@ -10,9 +10,8 @@ Systematic equity & options strategies across Indian (NSE) and US markets · Del
 Adapted a GPT-style model to Indian equities using a survivorship-free dataset (9.9M daily records, 4,047 stocks, 1995–2025).
 → **41% a year after costs** in a 2019–2025 out-of-sample backtest vs 20% for the market universe · Sharpe 1.15 · max drawdown 34%
 
-**OptionLab: research & trading platform** · *Video (coming soon)*
-In-house platform for NSE and US equities and options: backtest engine, screeners, options dashboard, live link to Interactive Brokers.
-→ Runs the OEL/OEH strategy in live paper trading on Nifty 50 stocks, plus a daily US screener on a cloud server with alerts
+**OptionLab: research & trading platform** · [Watch the demo (2.5 min)](https://youtu.be/5Zmj9Ae9pKA)
+In-house platform for NSE and US equities and options: screeners, backtest engine with full reports, paper trading, earnings screener and options dashboard, linked to Interactive Brokers.
 
 **Nifty 50 Stocks Strategy: price-action, long/short** · [Results](https://github.com/systematic-harry/systematic-harry/tree/main/nifty50-strategy)
 Rules-based strategy on Nifty 50 stocks, 7,880-trade backtest (2021–2025).
