@@ -50,4 +50,4 @@ Interactive Brokers & Upstox APIs · Google Cloud · Bloomberg Terminal
 CMT Charter Holder · EPAT (QuantInsti) · NISM Series VIII · Bloomberg Market Concepts · MBA
 
 ### Connect
-[LinkedIn](https://linkedin.com/in/harminder-singh-389310147) · Email: YOUR-EMAIL-HERE
+[LinkedIn](https://linkedin.com/in/harminder-singh-389310147) · Email:Harminder93@outlook.com
