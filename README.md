@@ -6,7 +6,7 @@ Systematic equity & options strategies across Indian (NSE) and US markets · Del
 
 ## Quant Research Portfolio
 
-**StockGPT on NSE: language-model return prediction** · *Paper (coming soon)*
+**StockGPT on NSE: language-model return prediction** · [Paper & results](https://github.com/systematic-harry/systematic-harry/tree/main/stockgpt-nse)
 Adapted a GPT-style model to Indian equities using a survivorship-free dataset (9.9M daily records, 4,047 stocks, 1995–2025).
 → **41% a year after costs** in a 2019–2025 out-of-sample backtest vs 20% for the market universe · Sharpe 1.15 · max drawdown 34%
 
