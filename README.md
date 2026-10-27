@@ -22,9 +22,8 @@ Rules-based strategy on Nifty 50 stocks, 7,880-trade backtest (2021–2025).
 Ranks 124 NSE stocks against the Nifty 500 and places each in a rotation quadrant (Leading, Weakening, Lagging, Improving).
 → Flags stocks turning from weak to strong early, using faster smoothing than the standard method
 
-**Portfolio Risk Case Study: client US equity account** · *Case study (coming soon)*
-Diagnosed why a leveraged long/short account gave back most of a 60% gain.
-→ Found one drawdown came from leverage (1.5x equity across 17 correlated chip stocks) and another from concentration (one stock at 53% of equity); designed a VaR-based size limit plus a 15% loss floor, stress-tested with 10,000 Monte Carlo paths
+**Portfolio Risk Case Study: client US equity account** · [Case study](https://github.com/systematic-harry/systematic-harry/tree/main/risk-case-study)
+Historical VaR(95) from actual positions, a 10,000-path Monte Carlo stress test, and a 15-rule replay → recommended VaR-based position sizing (5% limit) plus a hard 15% loss floor.→ Return **−2.2% → +18.4%** · max drawdown **−30.8% → −15.1%** · worst day −11.5% → −8.6%
 
 ---
 
