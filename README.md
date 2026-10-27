@@ -14,9 +14,9 @@ Adapted a GPT-style model to Indian equities using a survivorship-free dataset (
 In-house platform for NSE and US equities and options: backtest engine, screeners, options dashboard, live link to Interactive Brokers.
 → Runs the OEL/OEH strategy in live paper trading on Nifty 50 stocks, plus a daily US screener on a cloud server with alerts
 
-**OEL / OEH: intraday price-action strategy** · *Results (coming soon)*
-Opening-range signal on Nifty 50 stocks, tested on a 7,789-trade backtest.
-→ A 10:30 entry filter lifted **Sharpe from 1.31 to 1.62**, CAGR 13.8%, Calmar 1.59; the India VIX direction and the Nifty's trend that day carry extra signal
+**Nifty 50 Stocks Strategy: price-action, long/short** · [Results](https://github.com/systematic-harry/systematic-harry/tree/main/nifty50-strategy)
+Rules-based strategy on Nifty 50 stocks, 7,880-trade backtest (2021–2025).
+→ ₹10 lakh to **₹28.08 lakh** · **22.9% CAGR** · **Sharpe 1.83** · max drawdown 11.9% · every year profitable
 
 **RS Momentum Screener (JdK RS-Ratio / RS-Momentum)** · *TradingView (coming soon)*
 Ranks 124 NSE stocks against the Nifty 500 and places each in a rotation quadrant (Leading, Weakening, Lagging, Improving).
