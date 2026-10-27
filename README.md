@@ -4,7 +4,7 @@ Systematic equity & options strategies across Indian (NSE) and US markets · Del
 
 ---
 
-### Featured projects
+## Quant Research Portfolio
 
 **StockGPT on NSE: language-model return prediction** · *Paper (coming soon)*
 Adapted a GPT-style model to Indian equities using a survivorship-free dataset (9.9M daily records, 4,047 stocks, 1995–2025).
