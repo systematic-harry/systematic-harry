@@ -26,9 +26,6 @@ Ranks 124 NSE stocks against the Nifty 500 and places each in a rotation quadran
 Diagnosed why a leveraged long/short account gave back most of a 60% gain.
 → Found one drawdown came from leverage (1.5x equity across 17 correlated chip stocks) and another from concentration (one stock at 53% of equity); designed a VaR-based size limit plus a 15% loss floor, stress-tested with 10,000 Monte Carlo paths
 
-**Earnings Screener** · *In progress*
-Compares results expectations with how the options market prices the announcement, to pick long-volatility, short-volatility or directional trades.
-
 ---
 
 ### About
